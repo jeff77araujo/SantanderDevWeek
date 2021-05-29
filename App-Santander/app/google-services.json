@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309566051080",
+    "project_id": "santander-clone",
+    "storage_bucket": "santander-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309566051080:android:db84980381af08b1f092bd",
+        "android_client_info": {
+          "package_name": "com.dio.santanderdevweek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309566051080-g894ifn375oa2irb89rn36bqqafuq5cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq1BQN1CJUe6Uwm-BWKFdZ9R1BZkxxRQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309566051080-g894ifn375oa2irb89rn36bqqafuq5cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

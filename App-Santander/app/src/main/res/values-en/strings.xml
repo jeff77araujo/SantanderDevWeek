@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SantanderDevWeek</string>
+    <string name="balance_available">Balance available</string>
+    <string name="see_extract">View Extract</string>
+    <string name="text_pay">Pay</string>
+    <string name="txt_reload">Recharge</string>
+    <string name="txt_transfer">Transfer</string>
+    <string name="card_final">Final Card</string>
+    <string name="hello_user">"Hello, "</string>
+    <string name="ag_code">"Agency: "</string>
+    <string name="cc_code">"Chain: "</string>
+    <string name="money_symbol">"$ "</string>
+    <string name="limit_balance">Balance + Limit</string>
+</resources>

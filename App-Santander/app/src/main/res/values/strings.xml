@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SantanderDevWeek</string>
+    <string name="balance_available">Saldo Disponível</string>
+    <string name="see_extract">Ver Extrato</string>
+    <string name="text_pay">Pagar</string>
+    <string name="txt_reload">Recarregar</string>
+    <string name="txt_transfer">Transferir</string>
+    <string name="card_final">Cartão Final</string>
+    <string name="hello_user">Olá, </string>
+    <string name="ag_code">Ag: </string>
+    <string name="cc_code">Cc: </string>
+    <string name="money_symbol">R$ </string>
+    <string name="limit_balance">Saldo + Limite</string>
+</resources>
